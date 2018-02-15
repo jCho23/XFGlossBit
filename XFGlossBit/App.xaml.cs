@@ -8,7 +8,7 @@ namespace XFGlossBit
         {
             InitializeComponent();
 
-            MainPage = new XFGlossBitPage();
+            MainPage = new Pages.XFGlossBit();
         }
 
         protected override void OnStart()
