@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{AA873AED-0C8A-4D86-A532-BB0F5F935BB0}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="packages/Ansuria.XFGloss.1.0.6.59/readme.txt">
+    <Files>
+      <File FileName="packages/Ansuria.XFGloss.1.0.6.59/readme.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
