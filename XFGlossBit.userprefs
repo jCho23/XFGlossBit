@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{AA873AED-0C8A-4D86-A532-BB0F5F935BB0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="XFGlossBit/Pages/XFGlossBit.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFGlossBit/App.xaml.cs">
     <Files>
       <File FileName="packages/Ansuria.XFGloss.1.0.6.59/readme.txt" Line="30" Column="72" />
-      <File FileName="XFGlossBit/Pages/XFGlossBit.xaml" Line="6" Column="1" />
+      <File FileName="XFGlossBit/Pages/XFGlossBit.xaml" Line="18" Column="1" />
       <File FileName="XFGlossBit/Pages/XFGlossBit.xaml.cs" Line="16" Column="1" />
+      <File FileName="XFGlossBit/App.xaml.cs" Line="11" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

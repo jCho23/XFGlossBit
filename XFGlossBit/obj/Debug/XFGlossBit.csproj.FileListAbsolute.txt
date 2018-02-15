@@ -1,0 +1,4 @@
+/Users/june/Projects/XFGlossBit/XFGlossBit/obj/Debug/XFGlossBit.csprojResolveAssemblyReference.cache
+/Users/june/Projects/XFGlossBit/XFGlossBit/obj/Debug/XFGlossBit.csproj.CoreCompileInputs.cache
+/Users/june/Projects/XFGlossBit/XFGlossBit/obj/Debug/XFGlossBit.App.xaml.g.cs
+/Users/june/Projects/XFGlossBit/XFGlossBit/obj/Debug/XFGlossBit.Pages.XFGlossBit.xaml.g.cs
