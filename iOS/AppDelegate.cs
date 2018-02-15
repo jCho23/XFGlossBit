@@ -14,6 +14,8 @@ namespace XFGlossBit.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
+            XFGloss.iOS.Library.Init();
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
